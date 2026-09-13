@@ -1,0 +1,9 @@
+development:
+  password: your_theme_password
+  theme_id: ""
+  store: your-store.myshopify.com
+
+production:
+  password: your_theme_password
+  theme_id: ""
+  store: your-store.myshopify.com
