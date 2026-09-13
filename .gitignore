@@ -1,0 +1,29 @@
+# Shopify
+node_modules/
+dist/
+.env
+.env.local
+.env.*.local
+
+# IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Dependencies
+package-lock.json
+yarn.lock
+
+# Build
+build/
+.cache/
+
+# Logs
+logs/
+*.log
+npm-debug.log*

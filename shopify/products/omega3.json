@@ -1,0 +1,23 @@
+{
+  "title": "Omega-3 Fish Oil",
+  "handle": "omega-3-fish-oil",
+  "body_html": "<p>Premium Omega-3 fish oil supplement for cardiovascular, cognitive, and joint health. Sourced from wild-caught fish and molecularly distilled for purity.</p><p><strong>Benefits:</strong></p><ul><li>Supports heart and cardiovascular health</li><li>Promotes brain health and cognitive function</li><li>Reduces inflammation and supports joint health</li><li>High EPA and DHA content</li><li>Purified and tested for contaminants</li><li>Third-party verified</li></ul>",
+  "product_type": "Supplement",
+  "vendor": "Velno Supps",
+  "tags": ["omega-3", "fish-oil", "heart-health", "brain"],
+  "variants": [
+    {
+      "title": "1000mg - 60 Softgels",
+      "price": "29.99",
+      "sku": "VELNO-OMEGA3-60",
+      "inventory_quantity": 200
+    },
+    {
+      "title": "1000mg - 120 Softgels",
+      "price": "54.99",
+      "sku": "VELNO-OMEGA3-120",
+      "inventory_quantity": 150,
+      "compare_at_price": "65.99"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "title": "Taurine - Amino Acid Supplement",
+  "handle": "taurine",
+  "body_html": "<p>Premium Taurine supplement for optimal health and energy levels. Our Velno Supps Taurine is sourced from the finest ingredients and undergoes rigorous third-party testing to ensure purity and potency.</p><p><strong>What is Taurine?</strong></p><p>Taurine is a conditional amino acid that plays crucial roles in various physiological functions including cardiovascular health, vision, neurological function, and immune support.</p><p><strong>Key Benefits:</strong></p><ul><li>Supports heart health and cardiovascular function</li><li>Promotes eye health and vision</li><li>Enhances physical performance and endurance</li><li>Supports neurological function</li><li>Boosts energy and mental clarity</li><li>Supports immune system function</li></ul>",
+  "product_type": "Supplement",
+  "vendor": "Velno Supps",
+  "tags": ["amino-acid", "energy", "health", "taurine"],
+  "variants": [
+    {
+      "title": "500g Powder",
+      "price": "34.99",
+      "sku": "VELNO-TAURINE-500",
+      "inventory_quantity": 150
+    },
+    {
+      "title": "1kg Powder",
+      "price": "64.99",
+      "sku": "VELNO-TAURINE-1KG",
+      "inventory_quantity": 100,
+      "compare_at_price": "79.99"
+    },
+    {
+      "title": "60 Capsules",
+      "price": "24.99",
+      "sku": "VELNO-TAURINE-CAPS",
+      "inventory_quantity": 200
+    }
+  ],
+  "metafields": {
+    "custom": {
+      "ingredients": "Taurine (Pure)",
+      "serving_size": "3-5g daily",
+      "review_count": "287"
+    }
+  }
+}

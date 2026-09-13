@@ -1,0 +1,10 @@
+{
+  "title": "Best Sellers",
+  "handle": "best-sellers",
+  "description": "Discover our most popular and highly-rated supplements trusted by thousands of customers.",
+  "products": [
+    "taurine",
+    "whey-protein-isolate",
+    "omega-3-fish-oil"
+  ]
+}

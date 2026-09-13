@@ -1,0 +1,28 @@
+{
+  "title": "Premium Whey Protein Isolate",
+  "handle": "whey-protein-isolate",
+  "body_html": "<p>High-quality whey protein isolate to support muscle growth, recovery, and overall fitness goals. Each serving delivers pure protein with minimal carbs and fats.</p><p><strong>Benefits:</strong></p><ul><li>Supports muscle growth and recovery</li><li>High protein content per serving</li><li>Low carb and fat</li><li>Fast absorption</li><li>Great taste and mixability</li><li>Microfiltered for purity</li></ul>",
+  "product_type": "Supplement",
+  "vendor": "Velno Supps",
+  "tags": ["protein", "whey", "muscle", "fitness"],
+  "variants": [
+    {
+      "title": "Vanilla - 2lb",
+      "price": "49.99",
+      "sku": "VELNO-WHEY-VANILLA-2LB",
+      "inventory_quantity": 120
+    },
+    {
+      "title": "Chocolate - 2lb",
+      "price": "49.99",
+      "sku": "VELNO-WHEY-CHOC-2LB",
+      "inventory_quantity": 150
+    },
+    {
+      "title": "Strawberry - 2lb",
+      "price": "49.99",
+      "sku": "VELNO-WHEY-STRAW-2LB",
+      "inventory_quantity": 100
+    }
+  ]
+}
